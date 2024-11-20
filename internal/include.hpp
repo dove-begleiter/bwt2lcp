@@ -9,6 +9,8 @@
 #include <vector>
 #include <cassert>
 #include <algorithm>
+#include <cstdint>
+#include <iostream>
 
 using namespace std;
 
